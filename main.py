@@ -2,7 +2,7 @@ import tkinter
 import customtkinter
 import matplotlib.pyplot as plt
 
-# added a test comment
+
 hours = 0
 minutes = 0
 seconds = 0
